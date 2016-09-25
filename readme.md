@@ -4,7 +4,7 @@
   :steam_locomotive::train::train::train::train::train:
 </div>
 <div align="center">
-  <strong>`记录`:smile: & `感悟` :smile:</strong>
+  <strong>记录:smile: & 感悟 :smile:</strong>
 </div>
 
 <br />
