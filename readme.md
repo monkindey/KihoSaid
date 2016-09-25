@@ -4,9 +4,9 @@
   :steam_locomotive::train::train::train::train::train:
 </div>
 <div align="center">
-  <strong>Fun functional programming</strong>
+  <strong>`记录`:smile: & `感悟` :smile:</strong>
 </div>
 
 <br />
 
-`记录`:smile: & `感悟` :smile:
+
