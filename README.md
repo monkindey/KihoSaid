@@ -1,7 +1,3 @@
-<h1 align="center">WIP</h1>
-<br />
+<h1 align="center">Made in Kiho</h1>
 
-* [感受下别人的想法](https://github.com/monkindey/note/issues/12)
-* [记录解决的问题](https://github.com/monkindey/note/issues/9)
-* [Workflow 工作流](https://github.com/monkindey/note/issues/3)
-* [Mac 命令](https://github.com/monkindey/note/issues/5)
+<h3 align="center">请看 Issue</h3>
